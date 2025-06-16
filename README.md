@@ -1,4 +1,4 @@
-Python order of code evaluation & building program examples - General
+***Python order of code evaluation & building program examples - General***
 Variables → Functions → Loops → Booleans - Conditionals → Collections (Lists, Dictionaries) → Classes
 
 Use: Quick reference guide for remembering the how/what of a particular object/tool in Python
@@ -11,7 +11,7 @@ understand, then with the assistance of ChatGPT and occasionally 1min.ai I was a
 Note: CTRL+F is the main tool to use when navigating this page. Please make sure to remember the order of evaluation.
 
 ---------------------------------------------------------------------------------------------------------------------
-Troubleshooting masterdoc to assist in resolving bad code - Troubleshooting Master doc
+***Troubleshooting masterdoc to assist in resolving bad code - Troubleshooting Master doc***
       1. TypeError
       2. ValueError
       3. ZeroDivisionError

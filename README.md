@@ -1,4 +1,5 @@
 ***Python order of code evaluation & building program examples - General***
+
 Variables → Functions → Loops → Booleans - Conditionals → Collections (Lists, Dictionaries) → Classes
 
 Use: Quick reference guide for remembering the how/what of a particular object/tool in Python
@@ -12,6 +13,7 @@ Note: CTRL+F is the main tool to use when navigating this page. Please make sure
 
 ---------------------------------------------------------------------------------------------------------------------
 ***Troubleshooting masterdoc to assist in resolving bad code - Troubleshooting Master doc***
+    
       1. TypeError
       2. ValueError
       3. ZeroDivisionError

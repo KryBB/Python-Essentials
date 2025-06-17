@@ -31,12 +31,14 @@ Note: It should be easy to read for and understand for a casual Python coder giv
 Remember: Reading is fundamental
 
 Accessing the document from this page:
+    
       1. Scroll up and select the green 'Code' button
       2. Select 'Code Spaces'
       3. Select the plus (+) symbol
       4. On the left drop down menu select 'TroubleshootingMaster'
 
 If you do not see a play button on the top right corner follow these instructions:
+      
       5. Wait 5-10 seconds
       6. In the bottom right hand corner you may be asked to install a program
       7. Select the blue 'install' button to install the Python debugger browser extension
@@ -44,6 +46,7 @@ If you do not see a play button on the top right corner follow these instruction
 
 
 Utilizing the Troubleshooting doc (this assumes you have access to some type of code interpreter e.g. VSC)
+     
       1. Read the last line of the error block that appears in your working terminal to determine the error type you have
       2. The Python debugger browsing add on is necessary to have installed when using this document (which you should know since you read the instructions)
       3. Press the play button in the top right corner and select 'Python Debugger: Python File'

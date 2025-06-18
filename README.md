@@ -6,10 +6,12 @@ Use: Quick reference guide for remembering the how/what of a particular object/t
 
 Why: When learning something new, it is necessary to build and maintain a foundational knowledge of the subject
 
-How: Utilizing the resource available to me (zybooks and Visual Studio Code(VSC)) I translated confusing sentences and built formats for informations that I could easily
-understand, then with the assistance of ChatGPT and occasionally 1min.ai I was able to streamline the storage of this information.
+How: Utilizing the resource available to me (zybooks and Visual Studio Code(VSC) I translated confusing sentences and built formats for informations that I could easily
+understand, then with the assistance of ChatGPT and Deepseek (1min.ai) I was able to streamline the storage of this information.
 
-Note: CTRL+F is the main tool to use when navigating this page. Please make sure to remember the order of evaluation.
+Note: 
+CTRL+F is intended to be used to navigate this page. 
+Please make sure to remember the order of evaluation.
 
 ---------------------------------------------------------------------------------------------------------------------
 ***Troubleshooting masterdoc to assist in resolving bad code - Troubleshooting Master doc***
@@ -56,6 +58,7 @@ Utilizing the Troubleshooting doc (this assumes you have access to some type of 
                  * Verify the issue is similar to what you have on your screen
                  * CTRL+F, type the error you have, and scroll to read the suggested resolutions.
       6. Implement the solution. Note that if the issue is unique or takes an unusual amount of time to resolve...
-                 * CTRL + F, type part 2 and record the issue there.a
+                 * Go to the troubleshooting_offshoot branch for more detailed assistance
+                 * Build a new troubleshooting guide around your particular issue
 
 

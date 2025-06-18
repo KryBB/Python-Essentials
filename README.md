@@ -57,7 +57,8 @@ Utilizing the Troubleshooting doc (this assumes you have access to some type of 
       5. After inputting the issue you have in the terminal...
                  * Verify the issue is similar to what you have on your screen
                  * CTRL+F, type the error you have, and scroll to read the suggested resolutions.
-      6. Implement the solution. Note that if the issue is unique or takes an unusual amount of time to resolve...
+      6. Implement the solution.
+      7. If the issue is beyond the scope of the troubleshooting document...
                  * Go to the troubleshooting_offshoot branch for more detailed assistance
                  * Build a new troubleshooting guide around your particular issue
 

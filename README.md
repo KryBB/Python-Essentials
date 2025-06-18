@@ -1,4 +1,4 @@
-This troubleshooting offshoot branch was created as a response to the fact that the master_doc could not cover the entire database of errors from python.
+This troubleshooting offshoot branch was created as a response to the fact that the master_doc could not cover the entire database of errors from python 3.13.3 (bottom right of Visual Studio Code.
 
 The prompt used to build the offshoot branches is:
 

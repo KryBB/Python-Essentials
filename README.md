@@ -1,3 +1,5 @@
+**Quick reference guides**
+
 ***Python order of code evaluation & building program examples - General***
 
 Variables → Functions → Loops → Booleans - Conditionals → Collections (Lists, Dictionaries) → Classes

@@ -283,6 +283,17 @@ These are the building blocks of writing small programs that take input, do some
 # | Hardcoded value                          | A fixed value written directly into the code                           | tax_rate = 0.08                          |
 # | Concatenation                            | Joining strings together                                               | "Hello, " + name                         |
 # | Placeholder variable                     | A variable used temporarily or before assigning its final purpose      | result = None                            |
+# | Statement                                | A complete instruction that performs an action                         | x = 10                                   |
+# | Expression                               | Code that evaluates to a value                                         | 3 + 4                                    |
+# | Instruction                              | A direction for the computer to do something (general term)            | print("Hi")                              |
+# | Operation                                | An action applied to values using operators                            | x * y                                    |
+# | Operator                                 | A symbol that tells Python to perform an operation                     | +, -, *, /                               |
+# | Operand                                  | The values that operators act on                                       | In x + 5 → x and 5 are operands          |
+# | Control Flow                             | The order in which code is run                                         | if x > 5: print("big")                   |
+# | Boolean Expression                       | An expression that evaluates to True or False                          | a != b                                   |
+# | Condition                                | A test that decides whether code runs (usually inside an if-statement) | if score >= 60:                          |
+# | Loop                                     | Code that repeats while a condition is true or over a range            | for i in range(5):                       |
+# | Syntax                                   | The correct way code must be written in Python                         | Missing `:` causes a syntax error        |
 
 
 # Order of evaluation, precedence rules

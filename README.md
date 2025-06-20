@@ -2,7 +2,7 @@
 
 ***Python order of code evaluation & building program examples - General***
 
-***Sentence translation chart was too big to include here, but can be found with CTRL+F translation***
+***Sentence translation chart was too big to include here, but can be found with CTRL+F, translation***
 
 Variables → Functions → Loops → Booleans - Conditionals → Collections (Lists, Dictionaries) → Classes
 

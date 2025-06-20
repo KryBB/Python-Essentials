@@ -269,6 +269,9 @@ These are the building blocks of writing small programs that take input, do some
 # | Integer `x` is read from input           | The value of `x` is entered by the user at runtime                     | x = int(input())                         |
 # | Integer `y` is initialized with `48`     | The value of `y` is predefined by the programmer and set to 48         | y = 48                                   |
 # | Variable is declared                     | A variable is introduced for the first time                            | name = "Alice"                           |
+# | Declare                                  | Introduce a variable by assigning it a name                            | total = 0                                |
+# | Define                                   | Create a new function or class with a name                             | def greet(): print("hi")                |
+# | Initialize                               | Assign an initial value when declaring a variable                      | count = 0                                |
 # | Variable is reassigned                   | The variable is given a new value, replacing the old one               | x = 42  # after previously being 10      |
 # | Variable is updated                      | The variable's value is changed based on its previous value            | x = x + 1 or x += 1                      |
 # | Variable is printed                      | The value of a variable is shown to the screen                         | print(x)                                 |
@@ -279,6 +282,8 @@ These are the building blocks of writing small programs that take input, do some
 # | Increment                                | Increase a variable’s value by 1                                       | x = x + 1 or x += 1                      |
 # | Decrement                                | Decrease a variable’s value by 1                                       | x = x - 1 or x -= 1                      |
 # | Assignment statement                     | A command that stores a value in a variable                            | score = 100                              |
+# | Assign                                   | To set a variable to a value                                           | x = 5                                    |
+# | Bind                                     | Connect a name to an object in memory                                  | x = "hello"                              |
 # | Evaluation                               | The process of computing the value of an expression                    | 3 + 4 evaluates to 7                     |
 # | Hardcoded value                          | A fixed value written directly into the code                           | tax_rate = 0.08                          |
 # | Concatenation                            | Joining strings together                                               | "Hello, " + name                         |

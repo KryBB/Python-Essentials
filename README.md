@@ -1,3 +1,5 @@
+*For linkedIn people looking for a website, I haven't uploaded it yet because of its size, PM me, I'll email a zipped file for you to review*
+
 **Quick reference guides**
 
 ***Python order of code evaluation & building program examples - General***
